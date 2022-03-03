@@ -43,7 +43,7 @@ The dataset is Taken from Kaggle.
  * Make Prediction: This section for take image from test section and predict there label.
 
  * Single image Prediction: 
-  - In this section you can upload any image and can be check is it the problem of leaf Bactorial leaf blight, Brown spot or Leaf smut.
+  In this section you can upload any image and can be check is it the problem of leaf Bactorial leaf blight, Brown spot or Leaf smut.
  
 
 
