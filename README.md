@@ -8,7 +8,6 @@
 
 A convolutional neural network that classifies a photo of a rice leaf as **Bacterial leaf blight**, **Brown spot** or **Leaf smut**.
 
-There is no TensorFlow or PyTorch in this project. **Every layer, every gradient and the optimiser are written by hand in NumPy**, and every backward pass is verified against numerical gradients before training.
 
 ![Sample images per class](assets/sample_images.png)
 
