@@ -189,7 +189,7 @@ pip install -r requirements.txt
 ### Run the notebook
 
 ```bash
-jupyter notebook Rice_Leaf_Disease_CNN.ipynb
+jupyter notebook Rice_Leaf_Disease_CNN_f.ipynb
 ```
 
 Run all cells. The dataset is already included in `mydata/`, organised as one sub-folder per class:
@@ -240,7 +240,7 @@ Example output (for a Bacterial-leaf-blight image from the test set):
 
 ```
 Data-Science-Rice-Leaf-Disease-detection/
-├── Rice_Leaf_Disease_CNN.ipynb   # Full pipeline: audit → CNN engine → training → evaluation
+├── Rice_Leaf_Disease_CNN_f.ipynb   # Full pipeline: audit → CNN engine → training → evaluation
 ├── model.npz                     # Trained weights + metadata (class names, input size, normalisation)
 ├── mydata/                       # Dataset: one folder per class (119 images)
 │   ├── Bacterial leaf blight/
